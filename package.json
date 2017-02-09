@@ -1,0 +1,14 @@
+{
+    "name": "nittro-extras",
+    "homepage": "https://www.nittro.org",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nittro/extras.git"
+    },
+    "bugs": {
+        "url": "https://github.com/nittro/extras/issues",
+        "email": "nittro@nittro.org"
+    },
+    "devDependencies": {}
+}

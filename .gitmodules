@@ -1,0 +1,21 @@
+[submodule "Dialogs"]
+	path = Dialogs
+	url = https://github.com/nittro/dialogs.git
+[submodule "Confirm"]
+	path = Confirm
+	url = https://github.com/nittro/confirm.git
+[submodule "CheckList"]
+	path = CheckList
+	url = https://github.com/nittro/checklist.git
+[submodule "DropZone"]
+	path = DropZone
+	url = https://github.com/nittro/dropzone.git
+[submodule "Keymap"]
+	path = Keymap
+	url = https://github.com/nittro/keymap.git
+[submodule "Paginator"]
+	path = Paginator
+	url = https://github.com/nittro/paginator.git
+[submodule "Storage"]
+	path = Storage
+	url = https://github.com/nittro/storage.git
