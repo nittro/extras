@@ -15,7 +15,7 @@
     "dependencies": {
         "nittro-extras-checklist": "^2.0.0-rc.1",
         "nittro-extras-confirm": "^2.0.0-rc.3",
-        "nittro-extras-dialogs": "^2.0.0-rc.4",
+        "nittro-extras-dialogs": "^2.0.0-rc.5",
         "nittro-extras-dropzone": "^2.0.0-rc.3",
         "nittro-extras-keymap": "^2.0.0-rc.1",
         "nittro-extras-paginator": "^2.0.0-rc.3",
