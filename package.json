@@ -12,14 +12,17 @@
     "url": "https://github.com/nittro/extras/issues",
     "email": "nittro@nittro.org"
   },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "nittro-extras-checklist": "^2.0.0",
     "nittro-extras-confirm": "^2.0.0",
-    "nittro-extras-dialogs": "^2.0.1",
+    "nittro-extras-dialogs": "^2.0.3",
     "nittro-extras-dropzone": "^2.0.0",
     "nittro-extras-keymap": "^2.0.0",
     "nittro-extras-paginator": "^2.0.0",
     "nittro-extras-storage": "^2.0.0"
-  },
-  "files": []
+  }
 }
