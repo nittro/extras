@@ -3,7 +3,7 @@
   "homepage": "https://www.nittro.org",
   "license": "MIT",
   "author": "Dan Kadera <me@subsonic.cz>",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "repository": {
     "type": "git",
     "url": "https://github.com/nittro/extras.git"
@@ -19,7 +19,7 @@
   "dependencies": {
     "nittro-extras-checklist": "^2.0.0",
     "nittro-extras-confirm": "^2.1.0",
-    "nittro-extras-dialogs": "^2.1.6",
+    "nittro-extras-dialogs": "^2.1.7",
     "nittro-extras-dropzone": "^2.0.6",
     "nittro-extras-keymap": "^2.0.0",
     "nittro-extras-paginator": "^2.0.3",
